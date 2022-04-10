@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fluency</title>
+    <link>https://cunminlimou.github.io/</link>
+    <description>Recent content on Fluency</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Apr 2022 22:14:44 +0800</lastBuildDate><atom:link href="https://cunminlimou.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_post</title>
+      <link>https://cunminlimou.github.io/posts/first_post/</link>
+      <pubDate>Sun, 10 Apr 2022 22:14:44 +0800</pubDate>
+      
+      <guid>https://cunminlimou.github.io/posts/first_post/</guid>
+      <description>北京冬奥会、冬残奥会总结表彰大会8日上午在人民大会堂隆重举行。中共中央总书记、国家主席、中央军委主席习近平出席大会并发表重要讲话。习近平强调，伟大的事业孕育伟大的精神，伟大的精神推进伟大的事业。北京冬奥会、冬残奥会广大参与者珍惜伟大时代赋予的机遇，在冬奥申办、筹办、举办的过程中，共同创造了北京冬奥精神。北京冬奥精神就是胸怀大局、自信开放、迎难而上、追求卓越、共创未来。我们要大力弘扬北京冬奥精神，以更加坚定的自信、更加坚决的勇气，向着实现第二个百年奋斗目标奋勇前进，向着实现中华民族伟大复兴的中国梦奋勇前进。</description>
+    </item>
+    
+  </channel>
+</rss>
