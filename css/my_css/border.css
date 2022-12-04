@@ -1,0 +1,37 @@
+.border-grey {
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgb(229 231 235);
+}
+
+.border-dark_grey {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #ccc;
+}
+
+.border-red {
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgb(255 0 0);
+}
+
+.border-blue {
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgb(0 0 255);
+}
+
+.border-black {
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgb(0 0 0);
+}
+
+.border-white {
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgb(255 255 255);
+}
+	
+	

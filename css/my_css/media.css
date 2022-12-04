@@ -1,0 +1,187 @@
+@media (max-width: 640px) {
+	.paginator-wide {
+		width: 100%;
+	}
+}
+
+@media (min-width: 640px) {
+  main {
+    max-width: 640px;
+  }
+  
+	.paginator-wide {
+		width: 100%;
+	}
+}
+
+@media (min-width: 768px) {
+  main {
+    max-width: 768px;
+  }
+  
+	.paginator-wide {
+		width: 100%;
+	}
+}
+
+@media (min-width: 1024px) {
+  main {
+    max-width: 1024px;
+	width: 70%;
+  }
+  
+	.paginator-wide {
+		width: 70%;
+	}
+}
+
+@media (min-width: 1280px) {
+  main {
+    max-width: 1280px;
+	width: 70%;
+  }
+  
+	.paginator-wide {
+		width: 70%;
+	}
+}
+
+@media (min-width: 1536px) {
+  main {
+    max-width: 1536px;
+	width: 70%;
+  }
+  
+	.paginator-wide {
+		width: 70%;
+	}
+}
+
+@media (min-width: 1600px) {
+  main {
+    max-width: 1600px;
+	width: 70%;
+  }
+  
+	.paginator-wide {
+		width: 70%;
+	}
+}
+
+@media (min-width: 1920px) {
+  main {
+    max-width: 1920px;
+	width: 70%;
+  }
+  
+	.paginator-wide {
+		width: 70%;
+	}
+}
+
+@media (min-width: 2048px) {
+  main {
+    max-width: 2048px;
+	width: 70%;
+  }
+  
+	.paginator-wide {
+		width: 70%;
+	}
+}
+
+@media (min-width: 2560px) {
+  main {
+    max-width: 2560px;
+	width: 70%;
+  }
+  
+	.paginator-wide {
+		width: 70%;
+	}
+}
+
+@media (max-width: 768px) {
+	.sm\:grid-cols-1 {
+		grid-template-columns: repeat(1, minmax(0, 1fr));
+	}
+	
+	.sm\:span-6 {
+		grid-column: span 6;
+	}
+	
+	.sm\:header-image {
+		width: 100%;
+		padding-top: 1rem;
+		padding-bottom: 1rem;
+	}
+}
+
+
+@media (min-width: 768px) {
+	.md\:grid-cols-2 {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+	}
+  
+	.md\:span-6 {
+		grid-column: span 6;
+	}
+	
+	.md\:span-3 {
+		grid-column: span 3;
+	}
+	
+	.md\:header-image {
+		width: 60%;
+		padding: 1rem;
+	}
+}
+
+@media (min-width: 1024px) {
+	.lg\:grid-cols-3 {
+		grid-template-columns: repeat(3, minmax(0, 1fr));
+	}
+	
+	.lg\:span-3 {
+		grid-column: span 3;
+	}
+	
+	.lg\:span-2 {
+		grid-column: span 2;
+	}
+	
+	.lg\:header-image {
+		width: 30%;
+		padding: 1rem;
+	}
+	
+	.lg\:display-flex {
+		display: flex;
+	}
+
+}
+
+@media (max-width: 1024px) {
+	.content-image-lg {
+		display: none;
+	}
+	
+	.content-image-sm {
+		display: block;
+	}
+	
+	.content-video {
+		width: 100%;
+		height: 100%;
+	}
+}
+
+@media (min-width: 1024px) {
+	.content-image-lg {
+		display: block;
+	}
+	
+	.content-image-sm {
+		display: none;
+	}
+}

@@ -1,0 +1,66 @@
+.width-8 {
+	width: 8rem;
+}
+
+.width-16 {
+	width: 16rem;
+}
+
+.width-24 {
+	width: 24rem;
+}
+
+.width-32 {
+	width: 32rem;
+}
+
+.max-w-7xl {
+  max-width: 80rem;
+}
+
+.width-full {
+  width: 100%;
+}
+
+
+
+
+
+
+.max-width-72 {
+  max-width: 72rem;
+}
+
+.hover\:opacity-80:hover {
+  opacity: 0.8;
+}
+
+.duration-500 {
+  transition-duration: 500ms;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer * {
+	//border: blue solid 1px;
+}
+
+
+
+

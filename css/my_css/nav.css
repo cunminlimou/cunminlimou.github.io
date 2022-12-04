@@ -1,0 +1,85 @@
+.ionicon {
+	width: 1.2rem;
+	height: 1.2rem;
+}
+
+@media screen and (max-width: 1024px) {
+	#nav-text {
+		display: none;
+	}
+	
+	#nav-logo {
+		display: flex;
+	}
+	
+	#sidebar-container {
+		display: none;
+	}
+	
+	#footer-lg {
+		display: none;
+	}
+	
+	#footer-sm {
+		display: flex;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+	#nav-text {
+		display: flex;
+	}
+	
+	#nav-logo {
+		display: none;
+	}
+	
+	#navbar-list {
+		display: none;
+	}
+	
+	#slide-list {
+			display: none;
+	}
+	
+	#footer-lg {
+		display: flex;
+	}
+	
+	#footer-sm {
+		display: none;
+	}
+}
+
+
+
+
+@media screen and (max-width: 1024px) {
+
+		#navbar-list {
+			display: none;
+		}
+		
+		#navbar-list.active {
+			display: block;
+			box-shadow: 0 0.25rem 0.25rem #bbb;
+			margin-bottom: 0.5rem;
+		}
+		
+		#slide-list {
+			display: none;
+		}
+		
+		#slide-list.active {
+			display: block;
+			box-shadow: 0 0.25rem 0.25rem #bbb;
+			margin-bottom: 0.5rem;
+		}
+		
+		#page-nav.active {
+			box-shadow: none;
+			margin-bottom: 0rem;
+	}
+
+}
+

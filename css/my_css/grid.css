@@ -1,0 +1,15 @@
+.grid-template-columns-2 {
+	grid-template-columns: 1fr 1fr;
+}
+
+.grid-template-rows-2 {
+	grid-template-rows: 1fr 1fr;
+}
+
+.grid-template-columns-4 {
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.gap-1 {
+  gap: 1rem;
+}

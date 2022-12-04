@@ -1,0 +1,40 @@
+.hover-text-decoration-underline:hover {
+	text-decoration: underline;
+}
+
+.hover-underline:hover {
+	border-bottom: solid;
+	border-top: solid transparent;
+}
+
+.hover-underline {
+	border-bottom: solid transparent;
+	border-top: solid transparent;
+}
+
+.hover-underline-thin:hover {
+	border-bottom: solid thin;
+	border-top: solid thin transparent;
+}
+
+.hover-underline-thin {
+	border-bottom: solid thin transparent;
+	border-top: solid thin transparent;
+}
+
+.hover-grey:hover {
+	background-color: rgb(229 231 235);
+}
+
+.hover-light-blue:hover {
+	background-color: rgb(153 204 225);
+}
+
+.hover-bold:hover {
+	font-weight: bold;
+}
+
+.hover-border-radius-thin:hover {
+	border: solid thin;
+	border-radius: 0.25rem;
+}
