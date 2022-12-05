@@ -66,6 +66,14 @@ a {
 	text-decoration: inherit;
 }
 
+#content a {
+	color: #0065b3;
+}
+
+#content a:hover {
+	text-decoration: underline;
+}
+
 img {
 	vertical-align: middle;
 }
