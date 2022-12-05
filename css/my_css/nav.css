@@ -23,6 +23,14 @@
 	#footer-sm {
 		display: flex;
 	}
+	
+	#list-lg {
+		display: none;
+	}
+	
+	#list-sm {
+		display: block;
+	}
 }
 
 @media screen and (min-width: 1024px) {
@@ -43,10 +51,18 @@
 	}
 	
 	#footer-lg {
-		display: flex;
+		display: block;
 	}
 	
 	#footer-sm {
+		display: none;
+	}
+	
+	#list-lg {
+		display: flex;
+	}
+	
+	#list-sm {
 		display: none;
 	}
 }
