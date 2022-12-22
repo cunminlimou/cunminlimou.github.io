@@ -78,3 +78,27 @@ img {
 	vertical-align: middle;
 }
 
+#content hr {
+	border: solid 1px #e3e3e3;
+}
+
+#content blockquote {
+	margin: auto;
+	padding: 0 0.75rem;
+	border-left: 0.25rem solid #e3e3e3;
+}
+
+#content pre {
+	border: 1px solid #e3e3e3;
+	background-color: rgb(250, 249, 248);
+	padding: 1rem;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+	line-height: 2;
+}
+
+#content code {
+	font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Microsoft YaHei, Source Han Sans SC, Noto Sans CJK SC, WenQuanYi Micro Hei, sans-serif;
+	font-size: 1rem;
+}
+
