@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 村斋志异</title>
-    <link>https://cunminlimou.github.io/categories/</link>
+    <link>https://czzy.github.io/categories/</link>
     <description>Recent content in Categories on 村斋志异</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language><atom:link href="https://cunminlimou.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh</language><atom:link href="https://czzy.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
